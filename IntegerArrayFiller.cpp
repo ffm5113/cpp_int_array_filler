@@ -21,7 +21,6 @@ int main()
 	// Declare array of ints, size 50
 	int numArray[ARRAY_SIZE];
 
-	// Program Logic
 	cout << TITLE << endl
 		<< AUTHOR_LINE << endl << endl;
 
