@@ -15,4 +15,4 @@ Until next time :)
 
 Link to .cpp file: <a href="https://github.com/ffm5113/cpp_integer_array_filler/blob/main/IntegerArrayFiller.cpp">Integer Array Filler C++ Program</a>
 
-(c) 2022 ffm5113
+Copyright (c) 2022 ffm5113
